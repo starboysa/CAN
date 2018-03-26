@@ -5,7 +5,7 @@ CAN : Components As Nodes
 
 CAN is a statically typed visual scripting language that can be used to extend any software that uses component based architecture, but was made and tested with game engines in mind.
 By targetting a specific domain we can consider language features that will improve iteration time on components.
-CAN can be interpretted or transpiled into C++ to be integrated in your software however you want.  The goal here is to allow CAN scripts to be preformant enough to ship in a final product.
+CAN can be interpretted or transpiled into C++ to be integrated in your software however you want.  The goal here is to allow CAN scripts to be performant enough to ship in a final product.
 
 # Current State
 It isn't usuable, not yet.
